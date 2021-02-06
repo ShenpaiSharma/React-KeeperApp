@@ -1,8 +1,8 @@
 # React-KeeperApp
 
-npm install
+```npm install```
 
-npm start
+```npm start```
 
 
 https://material-ui.com/components/material-icons/
